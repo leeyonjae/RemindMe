@@ -1,0 +1,24 @@
+M:\A590C\RemindMe\RemindMe\bin\Debug\RemindMe.exe.config
+K:\A590C\RemindMe\RemindMe\bin\Debug\RemindMe.exe.config
+K:\A590C\RemindMe\RemindMe\bin\Debug\RemindMe.exe
+K:\A590C\RemindMe\RemindMe\bin\Debug\RemindMe.pdb
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.csprojResolveAssemblyReference.cache
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.frmMain.resources
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.Properties.Resources.resources
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.csproj.GenerateResource.Cache
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.exe
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.pdb
+D:\A590C\RemindMe\RemindMe\bin\Debug\RemindMe.exe.config
+D:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.exe
+D:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.pdb
+K:\A590C\RemindMe\RemindMe\obj\Debug\RemindMe.frmCountdown.resources
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\bin\Debug\RemindMe.exe.config
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\bin\Debug\RemindMe.exe
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\bin\Debug\RemindMe.pdb
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.frmCountdown.resources
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.frmMain.resources
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.Properties.Resources.resources
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.csproj.GenerateResource.Cache
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.exe
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.pdb
+C:\Users\Yonjae\Documents\IU Box\CSCI-A590 [.NET C#]\RemindMe\RemindMe\obj\Debug\RemindMe.csprojResolveAssemblyReference.cache
